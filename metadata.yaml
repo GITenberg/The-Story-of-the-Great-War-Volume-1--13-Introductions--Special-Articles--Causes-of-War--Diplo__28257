@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '309'
     url: http://www.gutenberg.org/2009/agents/309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28257#The-Story-of-the-Great-War-Volume-1--13-Introductions--Special-Articles--Causes-of-War--Diplo_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-03-05'
 gutenberg_type: Text
